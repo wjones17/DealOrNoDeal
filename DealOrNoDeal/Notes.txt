@@ -1,0 +1,7 @@
+﻿To change the version of the Game, go tot the GameManager class and go to the method "setUpGameplay.
+
+There is NumberOfRounds enum which are Quickplay(5 rounds), Seven, and Ten. Enter one of the enums for the "this.Rounds = your enum"
+
+There is DollarAmount enums which are the winnings for the game. Quickplay is only for the Quickplay number of rounds and vice-versa.
+Regular and Syndicated can be played with the seven or Ten round version of the game. Regular goes up to $1,000,000 in winnings and 
+Syndicated goes up to $500,000 in winnings.
